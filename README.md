@@ -31,11 +31,9 @@ Make your first open source contribution with this public repository
     - ```7a. go to the forked repository```
     - ```7b. click on the pull request button```
     <img src="./media/pull.png">
-    - ```7c. click on the create pull request button```
-    <img src="./media/pull2.png">
+    - ```7c. select the branch you want to merge into the master branch```
     - ```7d. add a title and description to your pull request```
-    <img src="./media/pull3.png">
     - ```7e. click on the create pull request button```
-    <img src="./media/pull4.png">
+    <img src="./media/pull2.png">
 
 [Checkout the guestbook](./guestbook.md)
