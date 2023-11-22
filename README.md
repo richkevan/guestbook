@@ -10,4 +10,4 @@ Make your first open source contribution with this public repository
 6. Push to the branch
 7. Create a new pull request
 
-[Sign the guestbook](../blob/guestbook.md)
+[Sign the guestbook](./guestbook.md)
