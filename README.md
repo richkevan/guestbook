@@ -36,8 +36,8 @@ Make your first open source contribution with this public repository
 
 [Checkout the guestbook](./guestbook.md)
 
-If you have any questions, 
-connect with me on [linkedin](https://www.linkedin.com/in/richkevan/)
-feel free to reach out to me on [twitter](https://twitter.com/richkevan)
-shoot me an [email](mailto:hey@richkevan.com)
-join the main channel on [discord](https://discord.gg/7Kuu52UeyN)
+- If you have any questions, 
+- connect with me on [linkedin](https://www.linkedin.com/in/richkevan/)
+- feel free to reach out to me on [twitter](https://twitter.com/richkevan)
+- shoot me an [email](mailto:hey@richkevan.com)
+- join the main channel on [discord](https://discord.gg/7Kuu52UeyN)
