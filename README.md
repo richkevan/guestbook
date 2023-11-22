@@ -3,7 +3,7 @@ Make your first open source contribution with this public repository
 
 ## How to contribute
 1. Fork this repository
-    -<img src="./media/fork.png"><br />
+    - <img src="./media/fork.png"><br />
 2. Clone the repository to your local machine
     -  ```2a. copy the url from the forked repository```
     <img src="./media/clone.png">
